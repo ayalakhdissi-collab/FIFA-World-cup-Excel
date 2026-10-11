@@ -20,5 +20,4 @@ What I Did
 This project analyzes FIFA national team rankings using point totals, ranks, confederation data, and historical changes. It compares current vs. previous performance, highlights regional strength, and organizes global football data for analysis and visualization.
 
 ## Files
-- `FIFA-World-Cup.xlsx` — core ranking dataset  
-- `screenshots/` — visual summaries of confederation totals and ranking comparisons
+- `FIFA-World-Cup.xlsx — Excel workbook containing the ranking data and analysis.
